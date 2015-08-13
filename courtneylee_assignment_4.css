@@ -1,0 +1,22 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	background-color:#333;}
+.image1
+{border-style:solid;
+border-width:10px;
+border-color:#F00;}
+
+.image2
+{border-style:solid;
+border-width:10px;
+border-color:#00F}
+
+.image3
+{border-style:solid;
+border-width:10px;
+border-color:#0F0;}
+
+
+		
